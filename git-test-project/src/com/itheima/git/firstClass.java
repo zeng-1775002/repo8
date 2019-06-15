@@ -9,6 +9,7 @@ public class firstClass {
         System.out.println("hello git project");
         System.out.println("hello git project");
         System.out.println("hello git project");
+        System.out.println("修改了");
     }
 
 }
